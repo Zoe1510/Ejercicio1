@@ -1,0 +1,10 @@
+C:\Users\ZM\Documents\SISTEMA UCS\Ejercicio1CSharp\Ejercicio1CSharp\bin\Debug\Ejercicio1CSharp.exe.config
+C:\Users\ZM\Desktop\MP\Proyectos\Ejercicio1CSharp\Ejercicio1CSharp\bin\Debug\Ejercicio1CSharp.exe.config
+C:\Users\ZM\Desktop\MP\Proyectos\Ejercicio1CSharp\Ejercicio1CSharp\bin\Debug\Ejercicio1CSharp.exe
+C:\Users\ZM\Desktop\MP\Proyectos\Ejercicio1CSharp\Ejercicio1CSharp\bin\Debug\Ejercicio1CSharp.pdb
+C:\Users\ZM\Desktop\MP\Proyectos\Ejercicio1CSharp\Ejercicio1CSharp\obj\Debug\Ejercicio1CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ZM\Desktop\MP\Proyectos\Ejercicio1CSharp\Ejercicio1CSharp\obj\Debug\Ejercicio1CSharp.exe
+C:\Users\ZM\Desktop\MP\Proyectos\Ejercicio1CSharp\Ejercicio1CSharp\obj\Debug\Ejercicio1CSharp.pdb
+C:\Users\zbermudez\Documents\GitLab\Ejercicios_CSharp\Ejercicio1_DFDaCSharp\Ejercicio1CSharp\bin\Debug\Ejercicio1CSharp.exe.config
+C:\Users\zbermudez\Documents\GitLab\Ejercicios_CSharp\Ejercicio1_DFDaCSharp\Ejercicio1CSharp\obj\Debug\Ejercicio1CSharp.exe
+C:\Users\zbermudez\Documents\GitLab\Ejercicios_CSharp\Ejercicio1_DFDaCSharp\Ejercicio1CSharp\obj\Debug\Ejercicio1CSharp.pdb
